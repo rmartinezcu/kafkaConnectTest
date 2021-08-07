@@ -10,7 +10,7 @@ Descargamos la fuente dentro de una carpeta llamada Connect
 git remote -b 2021 https://github.com/rmartinezcu/kafkaConnectTest.git
 
 ```
-## Agredecimientos
+## Agradecimientos
 
 Muchas gracias a todos por su tiempo.
 
