@@ -1,15 +1,16 @@
 # KAFKA CONNECT - Taller KAFKA
 
-Foobar is a Python library for dealing with word pluralization.
+Proyecto de Kafka Connect 
 
 ## Instalacion
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Descargamos la fuente dentro de una carpeta llamada Connect
 
 ```bash
-pip install foobar
-```
+git remote -b 2021 
 
+```
+[image](https://user-images.githubusercontent.com/63490323/128585966-f8375cdf-efba-4872-b2ec-37f9c2ae41c6.png)
 ## Usage
 
 ```python
